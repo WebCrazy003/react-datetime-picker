@@ -1,19 +1,19 @@
 {
-  "name": "react-nepali-datetime-picker",
-  "description": "A simple and reusable Nepali calendar, date and time picker components for React.",
+  "name": "react-datetime-picker",
+  "description": "A simple and reusable calendar, date and time picker components for React.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/binodnepali/react-nepali-datetime-picker"
+    "url": "https://github.com/WebCrazy003/react-datetime-picker"
   },
   "keywords": [
-    "nepali-calendar",
-    "nepali-datepicker",
-    "nepali-timepicker",
-    "nepali-datetime-picker",
-    "react-nepali-calendar",
-    "react-nepali-datepicker",
-    "react-nepali-timepicker",
-    "react-nepali-datetime-picker"
+    "calendar",
+    "datepicker",
+    "timepicker",
+    "datetime-picker",
+    "react-calendar",
+    "react-datepicker",
+    "react-timepicker",
+    "react-datetime-picker"
   ],
   "private": false,
   "version": "1.0.0-beta.4",
@@ -59,7 +59,7 @@
     "release:ci:minor": "standard-version --release-as minor --dry-run",
     "release:ci:major": "standard-version --release-as major --dry-run",
     "release:ci:patch": "standard-version --release-as patch --dry-run",
-    "build:link": "pnpm build && echo '{\"name\": \"react-nepali-datetime-picker\",\"version\":\"1.0.0\"}' > dist/package.json",
+    "build:link": "pnpm build && echo '{\"name\": \"react-datetime-picker\",\"version\":\"1.0.0\"}' > dist/package.json",
     "npm:prepublish": "pnpm lint && pnpm test:unit && pnpm build",
     "npm:publish": "npm publish --access public",
     "npm:publish:alpha": "pnpm npm:prepublish && pnpm prerelease:alpha && pnpm npm:publish",

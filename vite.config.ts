@@ -10,7 +10,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: path.resolve(__dirname, './src/index.ts'),
-      name: 'react-nepali-datetime-picker',
+      name: 'react-datetime-picker',
       fileName: (format) => `index.${format}.js`,
     },
     rollupOptions: {

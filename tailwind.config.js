@@ -19,5 +19,5 @@ export default {
     preflight: process.env.NODE_ENV === 'development',
   },
   prefix: 'ne-dt-',
-  nepaliDateTimePicker: {},
+  dateTimePicker: {},
 }

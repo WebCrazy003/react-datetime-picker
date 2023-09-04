@@ -1,6 +1,6 @@
 ## Contributing Guide
 
-Thank you for your interest in contributing to the React Nepali Datetime Picker project! Your contributions will help improve and enhance this library. Please take a moment to review the guidelines before getting started.
+Thank you for your interest in contributing to the React Datetime Picker project! Your contributions will help improve and enhance this library. Please take a moment to review the guidelines before getting started.
 
 ### Before Getting Started
 
@@ -17,9 +17,9 @@ To set up the project on your local machine, follow these steps:
    
 
 ```bash
-   git clone https://github.com/binodnepali/react-nepali-datetime-picker.git
+   git clone https://github.com/WebCrazy003/react-datetime-picker.git
    # or
-   git clone git@github.com:binodnepali/react-nepali-datetime-picker.git
+   git clone git@github.com:WebCrazy003/react-datetime-picker.git
    ```
 
 2. Navigate to the cloned repository:
@@ -27,7 +27,7 @@ To set up the project on your local machine, follow these steps:
    
 
 ```bash
-   cd react-nepali-datetime-picker
+   cd react-datetime-picker
    ```
 
 3. Install project dependencies:
@@ -114,13 +114,6 @@ We welcome and appreciate pull requests from the community. If you have any impr
 
 By contributing to this project, you agree that your contributions will be licensed under the MIT License. For more details, please see the [LICENSE](./LICENSE) file.
 
-### Author
-
-* Name: Binod Nepali
-* GitHub: [@binodnepali](https://github.com/binodnepali)
-* Email: nepalibinod9@gmail.com
-* Website: [https://binodnepali.me/](https://binodnepali.me/)
-
 If you have any questions, feedback, or need further assistance, feel free to reach out to the author.
 
-Thank you for your valuable contributions to the React Nepali Datetime Picker project! We appreciate your efforts in making this library even better.
+Thank you for your valuable contributions to the React Datetime Picker project! We appreciate your efforts in making this library even better.
